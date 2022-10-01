@@ -6,3 +6,15 @@
 .right h1{
     text-align: center;
 }
+.MuiBox-root:hover{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+span{
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    margin-left: 10%;
+}

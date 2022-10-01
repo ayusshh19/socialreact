@@ -5,8 +5,8 @@ import "./maincontent.css";
 import axios from "axios";
 import { useState } from "react";
 import { useEffect } from "react";
-const id = +prompt("Enter Your id!!!!!");
 // console.log(id)
+const id = +prompt("Enter Your id!!!!!");
 function Maincontent() {
   const [getuserwithid, setwithuser] = useState([]);
   const getuser = () => {

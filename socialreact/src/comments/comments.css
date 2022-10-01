@@ -1,0 +1,14 @@
+.container1 img{
+    width: 70%;
+    height: 500px;
+    margin: auto !important;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+.comments{
+    display: block;
+}
