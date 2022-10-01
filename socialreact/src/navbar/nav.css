@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navapps{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    z-index: 1;
+}

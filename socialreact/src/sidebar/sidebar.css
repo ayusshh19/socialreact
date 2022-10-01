@@ -1,0 +1,11 @@
+.sidebar{
+    flex: 3;
+    height: calc(100vh - 100px);
+    background-color: aqua;
+    z-index: -1;
+   
+}
+.sideinner{
+    position: absolute;
+    top: 100px;
+}

@@ -1,0 +1,8 @@
+.right{
+    flex: 4;
+    height: calc(100vh - 55px);
+
+}
+.right h1{
+    text-align: center;
+}
