@@ -1,5 +1,3 @@
-import { Avatar } from "@mui/material";
-import { height } from "@mui/system";
 import { useParams } from "react-router-dom";
 import './profile.css';
 import axios from "axios";
