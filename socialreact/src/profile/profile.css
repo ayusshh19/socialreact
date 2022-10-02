@@ -1,10 +1,16 @@
-
+body{
+    background: #62a0ac;
+}
 .container{
     width: 400px;
     height: 400px;
     margin: auto;
-    background-color: aqua;
     position: relative;
+    top: 100px;
+    border-radius: 41px;
+    background: #62a0ac;
+    box-shadow:  34px 34px 68px #4c7d86,
+                 -34px -34px 68px #78c3d2;
     
 
 }
@@ -15,4 +21,21 @@
     border-radius: 200px;
     top: -25%;
     margin: auto;
+    left: 25%;
+}
+
+.maincontent{
+    position: absolute;
+    top: 25%;
+    width: 100%;
+}
+.maincontent h2{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+.maincontent h4{
+    font-size: 20px;
+    text-align: center;
 }
